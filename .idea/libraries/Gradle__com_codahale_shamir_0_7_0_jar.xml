@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codahale:shamir:0.7.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codahale/shamir/0.7.0/173ddf6fda6213bf759f3a39c26b90ced977a3ee/shamir-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codahale/shamir/0.7.0/fd906d35e7c3093a82117cd08d3f75d56f50ef72/shamir-0.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codahale/shamir/0.7.0/d0ea91b71d029ff12c4be60c2fbc4b332754961f/shamir-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
